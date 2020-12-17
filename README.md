@@ -7,5 +7,9 @@ homework
 03為default=0.3
 08為default=0.8
 
+![image](https://github.com/kaunge/malwave_ntut_107ab0708/blob/main/006_03.jpg)
+
+
+![image](https://github.com/kaunge/malwave_ntut_107ab0708/blob/main/03_.jpg)
 
 
