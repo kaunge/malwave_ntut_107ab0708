@@ -7,10 +7,10 @@ homework
 03為default=0.3  
 08為default=0.8  
 
-default=0.06和default=0.3  
+default=0.06(左)和default=0.3(右)  
 ![image](https://github.com/kaunge/malwave_ntut_107ab0708/blob/main/006_03.jpg)
 
-default=0.3和default=0.8  
+default=0.3(左)和default=0.8(右)  
 ![image](https://github.com/kaunge/malwave_ntut_107ab0708/blob/main/03_08.jpg)
 
 
